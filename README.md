@@ -1,4 +1,4 @@
-# 🧾 A2W STANDARD v1.0
+# 🧾 A2W STANDARD v1.2
 
 **Agent-as-Worker Interoperability Standard**
 *Behavior, state, hierarchy, and telemetry standard for autonomous AI agents, built on top of Google A2A.*
@@ -627,7 +627,7 @@ It is **A2W-compliant** and suitable for use in documentation, testing suites, a
 
 At this level, the standard is **sufficiently complete and realistic** to:
 
-* publish it in a GitHub repository as `A2W Standard v1.0`;
+* publish it in a GitHub repository as `A2W Standard v1.2`;
 * use it as the basis for a reference implementation;
 * reference it in the context of “we built a multi-agent system compatible with A2A and extended with our own open A2W standard”.
 
